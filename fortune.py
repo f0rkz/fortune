@@ -6,14 +6,7 @@ import random
 
 
 FORTUNE_API_URL = 'http://www.yerkee.com/api/fortune'
-# This is a random comment
-# That's a comment!
-"""
-This is a docstring
-"""
-"""
-This is another docstring
-"""
+
 
 class Fortune(object):
     def __init__(self, amount=1):
